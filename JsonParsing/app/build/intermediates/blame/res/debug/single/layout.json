@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/merged/debug/layout/singleitemview.xml",
+        "source": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/src/main/res/layout/singleitemview.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/merged/debug/layout/listview_main.xml",
+        "source": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/src/main/res/layout/listview_main.xml"
+    },
+    {
+        "merged": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/src/main/res/layout/listview_item.xml"
+    }
+]

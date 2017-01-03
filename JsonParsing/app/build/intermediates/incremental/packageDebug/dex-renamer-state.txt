@@ -1,0 +1,7 @@
+#Tue Jan 03 15:05:03 IST 2017
+base.0=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_186e11bbff01f167efee8b826bd48f43d78fa70d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d62582fd3de1dd8074683130c282662ca70c32eb/classes.dex
+base.1=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d62582fd3de1dd8074683130c282662ca70c32eb
+file.0=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_186e11bbff01f167efee8b826bd48f43d78fa70d/classes.dex

@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Jan 03 16:09:50 IST 2017
+2.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/layout/singleitemview.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/layout/listview_item.xml
+4.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxxhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/drawable/temp_img.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
+10.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/res/layout/listview_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/gaurav/Documents/3_dev/3_android/AndroidStudioProjects/JsonParsing/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
